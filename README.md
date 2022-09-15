@@ -70,7 +70,7 @@ Web Page 1
    [Images placed on the left]                                      [Texts placed on the right]
                                                                                 
            Congratulations, now you have mastered the idea of what an internet is and its purpose between human beings!
-Next, Yosho will teach you about how the internet receives resources and the foundation of them, those being witnesses.
+    Next, Yosho will teach you about how the internet receives resources and the foundation of them, those being witnesses.
 
                             Otherwise, click any of the people to get to know each topic more
 [Image of Colin] [Image of Yosho; Link: yoshowitnesses.html] [Image of Gabiley; Link: gabileytrends.html] [Image of Fendsworth; Link: fendsworthskeptic.html] [Image of Kelly; Link: kellyhands.html]
