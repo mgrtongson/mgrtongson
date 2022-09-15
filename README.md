@@ -95,8 +95,8 @@ This time, Yosho will teach you about how witnesses become the foundation of rep
 [Images related to witnesses and resources]                    [Text describing the topic]
 
 
-Astounding, now you have finished learning about how witnesses are the “seed” of any resource out there!
-Next, Gabiley will teach you about how all of this information is spread throughout the internet through trends.
+             Astounding, now you have finished learning about how witnesses are the “seed” of any resource out there!
+             Next, Gabiley will teach you about how all of this information is spread throughout the internet through trends.
 
                 Otherwise, click on any of the people to get to know each topic more.
 [Image of Colin; Link: colininternet.html] [Image of Yosho] [Image of Gabiley; Link: gabileytrends.html] [Image of Fenworth; Link: fenworthskeptic.html] [Image of Kelly; Link: kellyhands.html]
